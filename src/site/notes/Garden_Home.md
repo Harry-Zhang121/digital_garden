@@ -6,6 +6,6 @@
 # This is the home page of Harry's digital garden.
 Testing.
 
-![[paper.pdf]]
+![[https://files.nonaharry.com/SIMBIoTA_Cloud_June_26_draft.pdf\|https://files.nonaharry.com/SIMBIoTA_Cloud_June_26_draft.pdf]]
 
-[Testpage](Testpage.md)
+[Testpage](https://files.nonaharry.com/SIMBIoTA_Cloud_June_26_draft.pdf)
