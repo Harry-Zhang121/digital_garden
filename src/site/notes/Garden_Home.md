@@ -6,5 +6,6 @@
 # This is the home page of Harry's digital garden.
 Testing.
 
+![[paper.pdf]]
 
 [Testpage](Testpage.md)
