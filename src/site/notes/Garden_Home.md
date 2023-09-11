@@ -3,11 +3,25 @@
 ---
 
 
+# You reached my digital garden
+Hey there! I'm Harry. A weirdo who likes to explore the world through the eyes of engineering. I don't know about you, but this is my first time coming to earth, so I have an interest in every single thing. This digital garden is my little corner on the internet where I pen down my explorations.
 
-# This is the home page of Harry's digital garden.
+![me](/img/user/Images/me.jpg)
 
-## Facts:
-### Things that I like
-- Orange juice
-- Cuppor
-- 
+## Facts about me
+### Things I like
+- Metasequoia glyptostroboides
+- Coffee (Who doesn't)
+- Copper
+- Hug
+- Music
+- Calculator
+
+### Things I hate
+- Printers
+- Crowd
+- Microsoft words
+
+## Links
+- [i] [Intagram](https://instagram.com/nonaharry121?igshid=OGQ5ZDc2ODk2ZA==)
+
