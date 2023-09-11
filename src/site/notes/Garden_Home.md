@@ -18,6 +18,7 @@ Hey there! I'm Harry. A weirdo who likes to explore the world through the eyes o
 ### Things I hate
 - Printers
 - Crowd
+- Short-form videos
 - Microsoft words
 
 ## Links
