@@ -3,9 +3,11 @@
 ---
 
 
+
 # This is the home page of Harry's digital garden.
-Testing.
 
-![[https://files.nonaharry.com/SIMBIoTA_Cloud_June_26_draft.pdf\|https://files.nonaharry.com/SIMBIoTA_Cloud_June_26_draft.pdf]]
-
-[Testpage](https://files.nonaharry.com/SIMBIoTA_Cloud_June_26_draft.pdf)
+## Facts:
+### Things that I like
+- Orange juice
+- Cuppor
+- 
