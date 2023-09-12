@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/work-in-progress/test-page/"}
+{"dg-publish":true,"permalink":"/Work_in_progress/Test_page/"}
 ---
 
 ---
