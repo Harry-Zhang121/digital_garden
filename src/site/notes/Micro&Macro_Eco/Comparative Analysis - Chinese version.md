@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Micro&Macro_Eco/Comparative Analysis - Chinese version/"}
+{"dg-publish":true,"permalink":"/micro-and-macro-eco/comparative-analysis-chinese-version/"}
 ---
 
 
