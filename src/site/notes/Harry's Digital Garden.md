@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Harry's Digital Garden/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/harry-s-digital-garden/","tags":["gardenEntry"]}
 ---
 
 
@@ -30,6 +30,11 @@ Hey there! I'm Harry. A weirdo who likes to explore the world through the eyes o
 
 ## Notes
 [[Comparative Analysis - Outline \| From Finance to Pandemic: A Comparative Analysis of Global Economic Responses in 2008 and 2020]]
+
+
+
+## Testing area
+[[Work_in_progress/Test_page\|Test_page]]
 
 
 
