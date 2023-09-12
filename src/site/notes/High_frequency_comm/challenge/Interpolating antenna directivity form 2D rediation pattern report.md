@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/High_frequency_comm/challenge/Interpolating antenna directivity form 2D rediation pattern report/"}
+{"dg-publish":true,"permalink":"/high-frequency-comm/challenge/interpolating-antenna-directivity-form-2-d-rediation-pattern-report/"}
 ---
 
 
