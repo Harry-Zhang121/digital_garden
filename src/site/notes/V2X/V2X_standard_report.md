@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/v2-x/v2-x-standard-report/"}
+{"dg-publish":true,"permalink":"/V2X/V2X_standard_report/"}
 ---
 
 
