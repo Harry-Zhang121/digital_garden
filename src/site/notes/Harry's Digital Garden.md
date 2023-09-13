@@ -15,7 +15,7 @@ Hey there! I'm Harry. A weirdo who likes to explore the world through the eyes o
 - Coffee (Who doesn't)
 - Copper
 - Hug
-- Music
+- Music [[Music_collection \|Collections]]
 - Calculator
 
 ### Things I hate
@@ -26,6 +26,7 @@ Hey there! I'm Harry. A weirdo who likes to explore the world through the eyes o
 
 ### Links
 - [Intagram](https://instagram.com/nonaharry121?igshid=OGQ5ZDc2ODk2ZA==)
+- 
 
 
 ## Notes
