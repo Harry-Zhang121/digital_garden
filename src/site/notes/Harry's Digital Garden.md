@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Harry's Digital Garden/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/harry-s-digital-garden/","tags":["gardenEntry"]}
 ---
 
 
