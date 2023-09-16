@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Fun_stuff/Music_collection/"}
+{"dg-publish":true,"permalink":"/fun-stuff/music-collection/"}
 ---
 
 
