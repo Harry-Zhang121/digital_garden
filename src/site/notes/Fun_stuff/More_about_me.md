@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Fun_stuff/More_about_me/"}
+{"dg-publish":true,"permalink":"/fun-stuff/more-about-me/"}
 ---
 
 
