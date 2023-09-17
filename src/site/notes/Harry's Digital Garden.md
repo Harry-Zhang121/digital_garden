@@ -9,7 +9,7 @@
 # You reached my digital garden
 Hey there! I'm Harry. A weirdo who likes to explore the world through the eyes of engineering. I don't know about you, but this is my first time coming to earth, so my curiosity is limitless. This digital garden is my little corner on the internet where I pen down my explorations.
 
-[[More_about_me \| 想了解更多？]]
+[[Fun_stuff/More_about_me\|想了解更多？]]
 
 ## Facts about me
 ### Things I like
@@ -17,7 +17,7 @@ Hey there! I'm Harry. A weirdo who likes to explore the world through the eyes o
 - Coffee (Who doesn't)
 - Copper
 - Hug
-- Music [[Music_collection \|Collections]]
+- Music [[Fun_stuff/Music_collection\|Collections]]
 - Calculator
 
 ### Things I hate
@@ -32,7 +32,7 @@ Hey there! I'm Harry. A weirdo who likes to explore the world through the eyes o
 
 
 ## Notes
-[[Micro&Macro_Eco/Comparative_Analysis_og\| From Finance to Pandemic: A Comparative Analysis of Global Economic Responses in 2008 and 2020]]
+[[Micro&Macro_Eco/Comparative_Analysis_og\|From Finance to Pandemic: A Comparative Analysis of Global Economic Responses in 2008 and 2020]]
 
 
 
