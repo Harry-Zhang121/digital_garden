@@ -16,7 +16,7 @@ Hey there! I'm Harry. A weirdo who likes to explore the world through the eyes o
 - Metasequoia glyptostroboides
 - Coffee (Who doesn't)
 - Copper
-- Hug
+- Hugging
 - Music [[Fun_stuff/Music_collection\|Collections]]
 - Calculator
 
