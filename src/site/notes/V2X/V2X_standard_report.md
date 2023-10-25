@@ -5,7 +5,12 @@
 
 # V2X standards research report
 
+## Introduction
+Vehicle-to-Everything (V2X) communication is pivotal in the transformation of the automotive industry, paving the way for smarter and safer transportation systems. However, as V2X technologies become ubiquitous, ensuring secure and reliable communication is of paramount importance. This is where standards like IEEE 1609.2 and YD/T 3957 come into play, offering frameworks for secure data exchanges in V2X communications.
 
+Both IEEE 1609.2 and YD/T 3957 address a broad range of security aspects for V2X, from cryptographic algorithms to Public Key Infrastructure (PKI) architectures. Despite their common goals, they are not identical and reflect different approaches to V2X security. Understanding these differences is crucial, not just for compliance but also for making informed decisions on which standard better serves specific scenarios or geographic markets.
+
+This report aims to dissect and compare these two influential standards, focusing particularly on Secured Protocol Data Units (SPDUs) and Public Key Infrastructure (PKI) architectures. Through this comparative analysis, we intend to provide insights that could be valuable for researchers, engineers, and policymakers involved in the deployment of V2X technologies.
 
 ## Difference in Secured protocol data units (SPDUs)
 SPDUs are defined in subclause 6.3 in *IEEE std 1609.2* and subclause 6.4 in *YD/T 3957*
@@ -211,3 +216,20 @@ In *IEEE std 1609.2.1* is specified that pseudonym certificate, identification c
 --- YD/T 3957 section 6.1.7.8
 
 In *YD/T 3957* it is clearly stated that only single linkage authority is implemented compare to multiple LA specified in *IEEE std 1609.2.1*.
+
+## Conclusion
+
+Both IEEE 1609.2 and YD/T 3957 are comprehensive standards aiming to provide a secure V2X communication environment, but they differ in several aspects:
+
+1. **SPDU Data Structures**: YD/T 3957 offers more flexibility in cryptographic algorithms, supporting not only those commonly used in Western standards but also Chinese cryptographic algorithms like SM3 and SM4.
+    
+2. **PKI architecture**: YD/T 3957 introduces more diversified architectures for obtaining enrollment certificates. This could offer more flexible deployment options, but might also complicate matters when trying to achieve interoperability between systems based on different standards.
+    
+3. **Pseudonym Certificates**: While IEEE places pseudonym certificates under the broader category of authorization certificates issued by the ACA, YD/T 3957 provides multiple methods for their issuance, complicating the role of pseudonym certificates in the PKI architecture.
+    
+4. **Linkage Authority**: IEEE has a well-defined concept of a Linkage Authority to manage the privacy aspects of pseudonym certificates. It is unclear how YD/T 3957 addresses this.
+    
+5. **Extension Fields**: YD/T 3957 introduces several new optional fields in the SPDU structure, which might be useful for specific applications but can also introduce compatibility issues.
+    
+
+In summary, while both standards aim to achieve similar goals of secure and efficient V2X communications, the differences in cryptographic options, PKI architecture, and the treatment of pseudonym certificates make direct interoperability a challenge. Future work might focus on how these two standards can be harmonized, or how systems based on these two standards can interoperate effectively.
