@@ -32,7 +32,6 @@ Hey there! I'm Harry. A weirdo who likes to explore the world through the eyes o
 
 
 ## Notes
-[[Micro&Macro_Eco/Comparative_Analysis_og\|From Finance to Pandemic: A Comparative Analysis of Global Economic Responses in 2008 and 2020]]
 
 
 
