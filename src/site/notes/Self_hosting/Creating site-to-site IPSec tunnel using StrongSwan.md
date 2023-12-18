@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/self-hosting/creating-site-to-site-ip-sec-tunnel-using-strong-swan/"}
+{"dg-publish":true,"permalink":"/self-hosting/creating-site-to-site-ip-sec-tunnel-using-strong-swan/","dgShowInlineTitle":true}
 ---
 
 
