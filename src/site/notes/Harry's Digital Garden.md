@@ -32,11 +32,9 @@ Hey there! I'm Harry. A weirdo who likes to explore the world through the eyes o
 
 
 ## Notes
+[[Self_hosting/Creating site-to-site IPSec tunnel using StrongSwan\|Creating site-to-site IPSec tunnel using StrongSwan]]
 
 
-
-## Testing area
-[[Work_in_progress/Test_page\|Test_page]]
 
 
 
